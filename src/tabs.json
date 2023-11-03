@@ -1,0 +1,8 @@
+{
+  "tabs": [
+    { "id": "table", "title": "Table", "order": 1, "path": "tabs/table.jsx" },
+    { "id": "chart", "title": "Chart", "order": 2, "path": "tabs/chart.jsx" },
+    { "id": "orderedList", "title": "Ordered List", "order": 3, "path": "tabs/ordered-list.jsx" },
+    { "id": "unorderedList", "title": "Unordered List", "order": 0, "path": "tabs/unordered-list.jsx" }
+  ]
+}

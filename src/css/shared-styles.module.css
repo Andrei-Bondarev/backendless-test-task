@@ -1,0 +1,14 @@
+.link{
+  color: inherit;
+  text-decoration: none;
+}
+
+
+.tab_header_container{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+.tab_header{
+  text-align: center;
+}
