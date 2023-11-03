@@ -3,7 +3,7 @@ This project is a test task for the JavaScript developer position at Backendless
 
 Task: https://docs.google.com/document/d/1ZsCmCjY2tErDPjqsMOhoO8ctA0LHIVHhVnvXSBur0ts/edit#heading=h.ug9dy4iwegjt
 
-deployed version: https://andrei-bondarev.github.io/backendless-test-task/
+deployed version: https://andrei-bondarev.github.io/backendless-test-task/#
 
 Some of the css styles was taken from the special resources with collection of css styles. Css code was added only for acceptable appearance
 
