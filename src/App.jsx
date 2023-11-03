@@ -11,7 +11,7 @@ import NotFound from './components/notFound/not-found';
 const App = () => {
   const router = createBrowserRouter([
 		{
-			path: "/",
+			path: "/backendless-test-task",
 			element: (
 				<div className={styles.wrapper}>
 					<Root />
