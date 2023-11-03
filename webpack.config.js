@@ -6,7 +6,7 @@ module.exports = {
 	output: {
 		path: path.resolve(__dirname, "dist"),
 		filename: "build.js",
-		publicPath: "/",
+		publicPath: "/backendless-test-task/",
 	},
 	module: {
 		rules: [
