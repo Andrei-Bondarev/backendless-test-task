@@ -2,16 +2,16 @@ import React from 'react';
 
 import Tab from './components/tabs/tab';
 
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from "react-router-dom";
 import Root from './components/root/root';
 
 import styles from './css/app.module.css'
 import NotFound from './components/notFound/not-found';
 
 const App = () => {
-  const router = createBrowserRouter([
+  const router = createHashRouter([
 		{
-			path: "/backendless-test-task",
+			path: "/",
 			element: (
 				<div className={styles.wrapper}>
 					<Root />
