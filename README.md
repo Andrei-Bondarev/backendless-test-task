@@ -13,9 +13,11 @@ plugins: ["@babel/plugin-syntax-dynamic-import"],
 3) For styling was used Css modules because it helps to avoid naming collision
 
 Work of lazy loading(loaded only default tab):
+
 ![image](https://github.com/Andrei-Bondarev/backendless-test-task/assets/82459651/8cbda3e0-e7a1-479c-94d5-87749c04abec)
 
 After loading other tabs:
+
 ![image](https://github.com/Andrei-Bondarev/backendless-test-task/assets/82459651/62dc944d-8361-4936-9f98-851f6f641bb7)
 
 
